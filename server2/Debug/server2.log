@@ -1,0 +1,3 @@
+﻿  server2.cpp
+C:\Users\LongRow\Desktop\大三下课件\计网课设\server2\server2.cpp(38,9): warning C4101: “threadId”: 未引用的局部变量
+  server2.vcxproj -> C:\Users\LongRow\Desktop\大三下课件\计网课设\server2\Debug\server2.exe

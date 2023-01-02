@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\LongRow\Desktop\大三下课件\计网课设\catch_test3\源.cpp(7,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\LongRow\Desktop\大三下课件\计网课设\catch_test3\源.cpp(90,9): warning C4101: “sockcl”: 未引用的局部变量
+C:\Users\LongRow\Desktop\大三下课件\计网课设\catch_test3\源.cpp(75,8): warning C4101: “dwBytesReturned”: 未引用的局部变量
+  catch_test3.vcxproj -> C:\Users\LongRow\Desktop\大三下课件\计网课设\catch_test3\x64\Debug\catch_test3.exe

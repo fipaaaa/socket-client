@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\LongRow\Desktop\大三下课件\计网课设\server3\源.cpp(42,15): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\LongRow\Desktop\大三下课件\计网课设\server3\源.cpp(16,21): warning C4101: “cl_addr”: 未引用的局部变量
+  server3.vcxproj -> C:\Users\LongRow\Desktop\大三下课件\计网课设\server3\Debug\server3.exe

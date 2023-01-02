@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\LongRow\Desktop\大三下课件\计网课设\FTP\源.cpp(45,12): warning C4101: “threadId”: 未引用的局部变量
+C:\Users\LongRow\Desktop\大三下课件\计网课设\FTP\源.cpp(122): warning C4715: “ThreadFunc”: 不是所有的控件路径都返回值
+C:\Users\LongRow\Desktop\大三下课件\计网课设\FTP\源.cpp(154): warning C4172: 返回局部变量或临时变量的地址: arr
+  FTP.vcxproj -> C:\Users\LongRow\Desktop\大三下课件\计网课设\FTP\Debug\FTP.exe
